@@ -1,0 +1,8 @@
+{
+	"addon": "addon.php",
+	"profile": "profile.zip",
+	"hashtag": "hashtag.zip",
+	"private": "private",
+	"stories": "stories.zip",
+	"highlights": "highlights.zip"
+}
